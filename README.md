@@ -1,6 +1,6 @@
-### Hi, I'm Craig 🐼
+## Hi, I'm Craig 🐼
 
-[<img align="center" alt="" width="22px" src="https://github.com/cycraig/assets_shared/blob/c90c1e211d617f65502dbfcc244bc6fc5049c91e/img/favicon-32x32.png?raw=true"/> craigbester.ml][website]
+### [<img align="center" alt="" width="22px" src="https://github.com/cycraig/assets_shared/blob/c90c1e211d617f65502dbfcc244bc6fc5049c91e/img/favicon-32x32.png?raw=true"/>][website] [craigbester.ml][website]
 
 
 
