@@ -6,11 +6,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />][python]
+[<img align="left" alt="Rust" width="26px" src="https://simpleicons.org/icons/rust.svg" />][rust]
+
+[<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />][python]
 
 [<img align="left" alt="PyTorch" width="26px" src="https://simpleicons.org/icons/pytorch.svg"/>][pytorch]
-
-[<img align="left" alt="Rust" width="26px" src="https://simpleicons.org/icons/rust.svg" />][rust]
 
 [<img align="left" alt="PyTorch" width="26px" src="https://simpleicons.org/icons/webassembly.svg"/>][webassembly]
 
