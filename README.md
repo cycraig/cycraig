@@ -6,17 +6,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Rust" width="26px" src="https://simpleicons.org/icons/rust.svg" />][rust]
+[<img align="left" alt="Rust" height="28px" src="https://img.shields.io/badge/Rust-%233776AB.svg?&style=flat-square&logo=rust&logoColor=white" />][rust]
 
-[<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />][python]
+[<img align="left" alt="Python" height="28px" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />][python]
 
-[<img align="left" alt="PyTorch" width="26px" src="https://simpleicons.org/icons/pytorch.svg"/>][pytorch]
+[<img align="left" alt="PyTorch" height="28px" src="https://img.shields.io/badge/PyTorch-%233776AB.svg?&style=flat-square&logo=pytorch&logoColor=white"/>][pytorch]
 
-[<img align="left" alt="PyTorch" width="26px" src="https://simpleicons.org/icons/webassembly.svg"/>][webassembly]
+[<img align="left" alt="WebAssembly" height="28px" src="https://img.shields.io/badge/Wasm-%233776AB.svg?&style=flat-square&logo=webassembly&logoColor=white"/>][webassembly]
 
-[<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg"/>][java]
-
-[<img align="left" alt="Go" width="26px" src="https://simpleicons.org/icons/go.svg"/>][go]
+[<img align="left" alt="Go" height="28px" src="https://img.shields.io/badge/Go-%233776AB.svg?&style=flat-square&logo=go&logoColor=white"/>][go]
 
 
 <br />
