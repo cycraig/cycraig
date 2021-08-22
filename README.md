@@ -22,10 +22,10 @@
 ---
 <img align="left" alt="cycraig's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cycraig&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
 
-[website]: https://craigbester.ml
+[website]: https://www.craigbester.ml
 [python]: https://github.com/cycraig/MP-DQN
 [pytorch]: https://github.com/cycraig/MP-DQN
 [rust]: https://github.com/cycraig/rust-boids-wasm
-[webassembly]: https://craigbester.ml
+[webassembly]: https://www.craigbester.ml
 [go]: https://github.com/cycraig/scpbattle
 [java]: https://github.com/cycraig
