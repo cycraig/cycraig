@@ -18,7 +18,7 @@
 <br />
 
 ---
-<img align="left" alt="cycraig's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cycraig&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
+<img align="left" alt="cycraig's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cycraig&show_icons=true&hide_border=true&count_private=true&hide_title=true&theme=dark" />
 
 [website]: https://www.craigbester.com
 [rust]: https://github.com/iotaledger/identity.rs
