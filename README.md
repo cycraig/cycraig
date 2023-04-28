@@ -22,7 +22,7 @@
 
 [website]: https://www.craigbester.com
 [rust]: https://github.com/iotaledger/identity.rs
-[webassembly]: https://github.com/iotaledger/identity.rs/tree/dev/bindings/wasm
+[webassembly]: https://github.com/iotaledger/identity.rs/tree/main/bindings/wasm
 [go]: https://github.com/cycraig/scpbattle
 [java]: https://github.com/cycraig
 [python]: https://github.com/cycraig/MP-DQN
